@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @itayshaish06
 
-Programmer, computer science student at Ben Gurion University
+Software Developer | Computer Science (B.Sc.) @ BGU
 
 ## My Projects:
 
